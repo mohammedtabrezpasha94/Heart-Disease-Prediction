@@ -1,7 +1,3 @@
-Here's a polished README for your GitHub repository on heart disease prediction using logistic regression:
-
----
-
 # Heart Disease Prediction using Logistic Regression
 
 ## Overview
