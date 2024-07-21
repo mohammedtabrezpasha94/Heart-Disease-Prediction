@@ -54,6 +54,3 @@ This project demonstrates logistic regression's application in predicting heart 
 - [World Health Organization Fact Sheet](http://www.who.int/mediacentre/factsheets/fs317/en/)
 - [Data Source](https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset/data)
 
----
-
-Feel free to adjust any sections as needed!
